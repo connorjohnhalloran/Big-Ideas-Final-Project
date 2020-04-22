@@ -7,6 +7,6 @@ https://data.wprdc.org/dataset/allegheny-county-depression-medication
 
 https://data.wprdc.org/dataset/police-incident-blotter
 
-**Waste Recovery Locations**
+**Allegheny County Waste Recovery Locations**
 
 https://data.wprdc.org/dataset/waste-recovery-locations
