@@ -6,3 +6,7 @@ https://data.wprdc.org/dataset/allegheny-county-depression-medication
 **Allegheny Count Crime Rate**
 
 https://data.wprdc.org/dataset/police-incident-blotter
+
+**Waste Recovery Locations**
+
+https://data.wprdc.org/dataset/waste-recovery-locations
